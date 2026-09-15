@@ -6,6 +6,7 @@
 [![Leadership](https://img.shields.io/badge/Leadership-168%2B%20Courses-10b981.svg)](https://www.lucebra.com)
 [![33 Locales](https://img.shields.io/badge/Languages-33%20Locales-blue.svg)](https://www.lucebra.com)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-about.lucebra.com%2Fblog-0284c7.svg?logo=rss&logoColor=white)](https://www.about.lucebra.com/blog)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
 [![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
@@ -210,3 +211,7 @@ Study anytime, anywhere with offline video streaming, audio mode, quiz practice,
 | 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
 
 ---
+
+
+---
+- 📰 **Engineering & Learning Blog:** [about.lucebra.com/blog](https://www.about.lucebra.com/blog) — *Deep dives into AI, software engineering, embedded systems, and tech tutorials.*
