@@ -6,6 +6,8 @@
 [![Leadership](https://img.shields.io/badge/Leadership-168%2B%20Courses-10b981.svg)](https://www.lucebra.com)
 [![33 Locales](https://img.shields.io/badge/Languages-33%20Locales-blue.svg)](https://www.lucebra.com)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -194,3 +196,17 @@ Upskill your team, engineering unit, or company with verified hands-on projects,
 | **Mastering Business storytelling: Techniques & Strategies** | Business • Storytelling | 5.5 hrs | ⭐ 5 | [Enroll on Lucebra →](https://www.lucebra.com/courses/mastering-business-storytelling-techniques-strategies-2) |
 | **Master Workplace Wellness: Resilience, Boundaries & Burnout** | Personal Development • Workplace Wellness & Self-Care | 5 hrs | ⭐ 5 | [Enroll on Lucebra →](https://www.lucebra.com/courses/master-workplace-wellness-resilience-boundaries-burnout) |
 | **The Ultimate Guide to Managing Hybrid Work Environments** | Business • Leadership | 1.5 hrs | ⭐ 5 | [Enroll on Lucebra →](https://www.lucebra.com/courses/the-ultimate-guide-to-managing-hybrid-work-environments) |
+
+
+---
+
+## 📱 Learn on the Go — Official Lucebra Mobile Apps
+
+Study anytime, anywhere with offline video streaming, audio mode, quiz practice, and instant verifiable certificates on iOS and Android:
+
+| Platform | Direct Store Link | Availability |
+| :--- | :--- | :---: |
+| 🍏 **Apple App Store (iOS & iPadOS)** | [👉 **Download on the App Store**](https://apps.apple.com/us/app/lucebra/id6754839631) | Free Download |
+| 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
+
+---
