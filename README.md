@@ -2,9 +2,12 @@
 
 > A curated list of 160+ communication, high-stakes negotiation, team leadership, and productivity masterclasses.
 
+> 🌐 **Global Accessibility:** All courses include synchronous **AI-powered subtitles in 99+ languages**, verifiable digital certificates, and full offline mobile support across 33 native platform locales.
+
 [![Lucebra Platform](https://img.shields.io/badge/Platform-Lucebra.com-2563eb.svg)](https://www.lucebra.com)
 [![Leadership](https://img.shields.io/badge/Leadership-168%2B%20Courses-10b981.svg)](https://www.lucebra.com)
 [![33 Locales](https://img.shields.io/badge/Languages-33%20Locales-blue.svg)](https://www.lucebra.com)
+[![99+ AI Subtitles](https://img.shields.io/badge/AI%20Subtitles-99%2B%20Languages-8b5cf6.svg?logo=google-translate&logoColor=white)](https://www.lucebra.com)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
 [![Tech Blog](https://img.shields.io/badge/Tech_Blog-about.lucebra.com%2Fblog-0284c7.svg?logo=rss&logoColor=white)](https://www.about.lucebra.com/blog)
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
