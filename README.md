@@ -26,7 +26,26 @@ Upskill your team, engineering unit, or company with verified hands-on projects,
 
 > 💡 **Redemption:** Click the direct activation link above or enter the coupon code during checkout on [Lucebra Business Checkout](https://www.lucebra.com/business-checkout).
 
+
+### 🎁 Lucebra Member Rewards — Exclusive Global Partner Perks
+
+Enroll in any course or start a Lucebra Pro / Business trial to unlock exclusive free trials and member perks from world-class entertainment, security, and cloud providers at checkout:
+
+| Global Partner Perk | Category | Exclusive Member Offer | Redemption |
+| :--- | :--- | :--- | :---: |
+| 🎬 **Paramount+** | Streaming & TV Hits | **7-Day Free Trial Included** (Blockbuster movies & on-demand TV) | Applied at Checkout |
+| 🍏 **Apple TV+** | Apple Originals | **7-Day Free Trial Offer** (Award-winning original series & films) | Applied at Checkout |
+| 🍿 **Netflix** | Entertainment | **Exclusive Member Plan Offer** (Acclaimed series & documentaries) | Active Student Perk |
+| ✨ **Disney+** | Streaming Universe | **Extended Streaming Trial** (Disney, Pixar, Marvel, Star Wars & NatGeo) | Applied at Checkout |
+| 🎵 **Apple Music** | Lossless & Spatial Audio | **Spatial Audio Free Trial** (Over 100M songs in Dolby Atmos) | Enrolled Student Perk |
+| 🛡️ **NordVPN** | Cybersecurity & Privacy | **High-Speed VPN Security Access** (Zero-log safe browsing) | Pro / Business Perk |
+| 📶 **Saily eSIM** | Global Travel Data | **International Travel Data Roaming Perk** | Member Reward |
+| ☁️ **1TB Cloud Storage** | Cloud Backup & Sync | **1TB Secure Cloud Drive Storage** | Enrolled Student Perk |
+
+> 💡 **How it Works:** Perks are automatically personalized and unlocked during checkout on [Lucebra Course Catalog](https://www.lucebra.com/explore). No coupon code needed.
+
 ---
+
 
 ## 🎯 Soft Skills, Negotiation & Team Leadership Catalog
 
